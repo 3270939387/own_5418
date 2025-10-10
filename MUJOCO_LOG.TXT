@@ -1,0 +1,21 @@
+Fri Oct 10 12:16:05 2025
+ERROR: could not create window
+
+Fri Oct 10 12:19:08 2025
+ERROR: could not create window
+
+Fri Oct 10 12:20:47 2025
+ERROR: could not create window
+
+Fri Oct 10 12:25:50 2025
+ERROR: could not create window
+
+Fri Oct 10 12:52:34 2025
+ERROR: could not create window
+
+Fri Oct 10 12:54:33 2025
+ERROR: could not create window
+
+Fri Oct 10 15:10:30 2025
+ERROR: could not create window
+
